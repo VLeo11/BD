@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224647413450",
+    "firebase_url": "https://basedate-b35c4-default-rtdb.firebaseio.com",
+    "project_id": "basedate-b35c4",
+    "storage_bucket": "basedate-b35c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224647413450:android:03432f7adcc5e8b3bb7e33",
+        "android_client_info": {
+          "package_name": "com.example.bd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224647413450-oqf1qu5ulvouraua08g550urke6m60tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuqPldgksVd_hAxSjSnZdwF4j-CRSNYoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224647413450-oqf1qu5ulvouraua08g550urke6m60tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
